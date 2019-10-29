@@ -12,15 +12,23 @@ Happy scripting!
 
 # Python scripts:
 
-### Auto Whatsapp
+### AutoWhatsapp
 
     A program to spam messages to a whatsapp contact any number of times
 
 ####    Requirements :
 
     Python 3.5+,Sellenium,Chrome web browser
+    
+### AutoLinkedIn
 
-### PDF Downloader
+    A program to automate the LinkedIn connection requests sending.
+
+####    Requirements :
+
+    Python 3.5+,Sellenium,Chrome web browser    
+
+### PDFDownloader
 
     A program to download PDF files off the internet. 
 
@@ -28,7 +36,7 @@ Happy scripting!
 
     Python 3.5+
 
-### File Man
+### FileMan
 
     A simple Command line tool to manipulate files and directories and perform repetitive tasks like creating multiple directories fast and easy
 
