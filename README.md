@@ -53,5 +53,5 @@ Happy scripting!
 ### FileDuplicateFinder
     A script that looks into all files under one or more directories and reports which are duplicates.
 
-###     Requirements :
+### Requirements :
     Python 3.5+
