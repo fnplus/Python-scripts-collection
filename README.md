@@ -9,3 +9,29 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 4. Write a short description of your script and mention the dependencies in the README.md file.
 
 Happy scripting! 
+
+# Python scripts:
+
+### Auto Whatsapp
+
+    A program to spam messages to a whatsapp contact any number of times
+
+####    Requirements :
+
+    Python 3.5+,Sellenium,Chrome web browser
+
+### PDF Downloader
+
+    A program to download PDF files off the internet. 
+
+####    Requirements :
+
+    Python 3.5+
+
+### File Man
+
+    A simple Command line tool to manipulate files and directories and perform repetitive tasks like creating multiple directories fast and easy
+
+####    Requirements :
+
+    Python 3.5+
