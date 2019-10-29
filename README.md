@@ -51,4 +51,4 @@ Happy scripting!
 ####    Requirements :
 
     Python 3.5+
-    [Requests](https://pypi.org/project/requests/)
+    Requests
