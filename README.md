@@ -43,3 +43,12 @@ Happy scripting!
 ####    Requirements :
 
     Python 3.5+
+
+### WebsiteMonitor :
+
+    Monitor a website for a seach term. When it shows up, send yourself an e-mail.
+
+####    Requirements :
+
+    Python 3.5+
+    [Requests](https://pypi.org/project/requests/)
