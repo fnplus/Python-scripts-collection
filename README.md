@@ -79,3 +79,9 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+, pyautogui, smtplib, ssl, email, getpass
+
+### FileLocator :
+    For given directory location find size and path of all files of a particular extension present in directory (including sub-directories).
+
+#### Requirements : 
+    Python 3.5+
