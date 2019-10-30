@@ -50,9 +50,3 @@ Happy scripting!
 ###     Requirements :
     Python 3.5+
 
-### BulkRename
-    Script for bulk rename file
-
-###     Requirements :
-    Works with Python 3
-
