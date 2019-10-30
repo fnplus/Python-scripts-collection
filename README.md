@@ -85,3 +85,9 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+
+
+### FindIPAddress :
+    Find your host name and IP address.
+
+#### Requirements : 
+    Python 3.5+
