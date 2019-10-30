@@ -88,3 +88,9 @@ Happy scripting!
 [**MostCommonEmail**](https://github.com/fnplus/Python-scripts-collection/tree/master/MostCommonEmail) :
 
     Seeking email that sent the most emails from email logs (text file)
+
+[**Renaming files of a folder**](https://github.com/fnplus/Python-scripts-collection/tree/master/Rename_files_of_a_folder) :
+
+    Python script to rename files especially images in this example in a folder
+
+
