@@ -8,7 +8,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 3. Push your code to the master branch.
 4. Write a short description of your script and mention the dependencies in the README.md file.
 
-Happy scripting! 
+:star: this repo and contribute as much as you can to spread your love towards Python :heart:
 
 # Python scripts:
 
@@ -103,3 +103,10 @@ Happy scripting!
 [**MostCommonEmail**](https://github.com/fnplus/Python-scripts-collection/tree/master/MostCommonEmail) :
 
     Seeking email that sent the most emails from email logs (text file)
+
+[**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
+
+    For given math function, constructs a graphic.
+
+    Additional Requirements:
+    Use only the variable "x", use the python's operation rules
