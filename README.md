@@ -49,4 +49,3 @@ Happy scripting!
 
 ###     Requirements :
     Python 3.5+
-
