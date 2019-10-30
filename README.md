@@ -88,3 +88,9 @@ Happy scripting!
 [**MostCommonEmail**](https://github.com/fnplus/Python-scripts-collection/tree/master/MostCommonEmail) :
 
     Seeking email that sent the most emails from email logs (text file)
+
+[**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
+
+    Given a math function, construct a graphic.
+    Additional Requirements:
+    Only use the variable "x", use the python's operation rules
