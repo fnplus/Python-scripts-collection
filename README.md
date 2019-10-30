@@ -91,3 +91,9 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+
+
+### RandomPasswordGenerator :
+    Generate random password of given length (Can be used in Web Development).
+
+#### Requirements : 
+    Python 3.5+
