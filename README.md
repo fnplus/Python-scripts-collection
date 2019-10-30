@@ -97,3 +97,9 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+
+
+### FindLinksInURL :
+    Find all the links present in the given url. 
+
+#### Requirements : 
+    Python 2.7
