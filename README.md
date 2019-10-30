@@ -56,5 +56,3 @@ Happy scripting!
 ###     Requirements :
     Works with Python 3
 
-### Source
-[rename.py](https://github.com/ernitron/rename.py)
