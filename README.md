@@ -12,81 +12,77 @@ Happy scripting!
 
 # Python scripts:
 
-### AutoWhatsapp
+##    Requirements :
+
+    Python 3.5+
+
+[**AutoWhatsapp**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoWhatsapp)
 
     A program to spam messages to a whatsapp contact any number of times
-
-####    Requirements :
-
-    Python 3.5+,Sellenium,Chrome web browser
     
-### AutoLinkedIn
+    Additional Requirement :
+    Sellenium, Chrome web browser
+    
+
+[**AutoLinkedIn**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoLinkedIn)
 
     A program to automate the LinkedIn connection requests sending.
 
-####    Requirements :
+    Additional Requirement :
+    Sellenium, Chrome web browser
+ 
 
-    Python 3.5+,Sellenium,Chrome web browser    
 
-### PDFDownloader
+[**PDFDownloader**](https://github.com/fnplus/Python-scripts-collection/tree/master/PDFdownloader) :
 
     A program to download PDF files off the internet. 
 
-####    Requirements :
-
-    Python 3.5+
-
-### FileMan
+[**FileMan**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileMan) :
 
     A simple Command line tool to manipulate files and directories and perform repetitive tasks like creating multiple directories fast and easy
 
-####    Requirements :
 
-    Python 3.5+
+[**WebWordCounter**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebWordCounter) :
 
-### WebWordCounter 
     A simple script that counts how many times a word appears on a web page.
 
-#### Requirements : 
-    Python 3.5+ 
-    
-### FileDuplicateFinder 
+   
+[**FileDuplicateFinder**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileDuplicateFinder) :
+
     A script that looks into all files under one or more directories and reports which are duplicates. 
     
-#### Requirements : 
-    Python 3.5+ 
-    
-### Image Scrapper 
+   
+[**Image Scrapper**](https://github.com/fnplus/Python-scripts-collection/tree/master/Image%20Scrapper) :
+
     A program to pull all the images from the given URL. 
 
-#### Requirements : 
-    Python 3.5+ 
+[**DateIterator**](https://github.com/fnplus/Python-scripts-collection/tree/master/DateIterator) :
 
-### DateIterator 
     A simple script that prints out all the dates in a given year 
+   
+[**WebsiteMonitor**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebsiteMonitor) :
 
-#### Requirements : 
-    Python 3.5+
-    
-### WebsiteMonitor : 
     Monitor a website for a seach term. When it shows up, send yourself an e-mail. 
+    
+    Additional Requirements : 
+    Requests
 
-#### Requirements : 
-    Python 3.5+, Requests
 
-### AutoScreenshot :
+[**AutoScreenshot**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoScreenshot) :
+
     Automatically take a screenshot of the desktop and email it to yourself every x seconds
 
-#### Requirements : 
-    Python 3.5+, pyautogui, smtplib, ssl, email, getpass
+    Additional Requirements : 
+    pyautogui, smtplib, ssl, email, getpass
 
-### FileLocator :
+
+
+[**FileLocator**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileLocator) :
+
     For given directory location find size and path of all files of a particular extension present in directory (including sub-directories).
 
-#### Requirements : 
-    Python 3.5+
+[**FindIPAddress**](https://github.com/fnplus/Python-scripts-collection/tree/master/FindIPAddress) :
 
-### FindIPAddress :
     Find your host name and IP address.
 
 #### Requirements : 
@@ -103,3 +99,7 @@ Happy scripting!
 
 #### Requirements : 
     Python 2.7
+
+[**MostCommonEmail**](https://github.com/fnplus/Python-scripts-collection/tree/master/MostCommonEmail) :
+
+    Seeking email that sent the most emails from email logs (text file)
