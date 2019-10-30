@@ -95,3 +95,16 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     Additional Requirements:
     Use only the variable "x", use the python's operation rules
+
+[**IntentionTextDiscover**](https://github.com/fnplus/Python-scripts-collection/tree/master/IntentionTextDiscover) :
+
+    For given a text intention class based on bayes teorem.
+
+    Additional Requirements:
+    - A text collection array for trainning 
+    - Install this packeges:
+        nltk ( A Python Natural Language Toolkit)
+        pandas
+        sklearn
+        
+
