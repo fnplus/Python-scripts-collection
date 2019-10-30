@@ -44,14 +44,3 @@ Happy scripting!
 
     Python 3.5+
 
-### WebWordCounter
-    A simple script that counts how many times a word appears on a web page
-
-###     Requirements :
-    Python 3.5+
-
-### DateIterator
-    A simple script that prints out all the dates in a given year
-
-###     Requirements :
-    Python 3.5+
