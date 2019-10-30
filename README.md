@@ -67,9 +67,16 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+
-    
+
+### RevereLookup : 
+    Takes an input list of ip addresses and does a reverse lookup for dns information and org information and writes to a csv file.
+
+#### Requirements : 
+    Python 3+, Requests
+
 ### WebsiteMonitor : 
     Monitor a website for a seach term. When it shows up, send yourself an e-mail. 
 
 #### Requirements : 
     Python 3.5+, Requests
+
