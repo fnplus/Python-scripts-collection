@@ -93,5 +93,5 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     For given math function, constructs a graphic.
 
-    Additional Requirements:
-    Use only the variable "x", use the python's operation rules
+
+
