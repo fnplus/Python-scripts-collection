@@ -73,3 +73,9 @@ Happy scripting!
 
 #### Requirements : 
     Python 3.5+, Requests
+
+### AutoScreenshot :
+    Automatically take a screenshot of the desktop and email it to yourself every x seconds
+
+#### Requirements : 
+    Python 3.5+, pyautogui, smtplib, ssl, email, getpass
