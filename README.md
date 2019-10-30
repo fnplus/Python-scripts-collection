@@ -8,7 +8,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 3. Push your code to the master branch.
 4. Write a short description of your script and mention the dependencies in the README.md file.
 
-Happy scripting! 
+:star: this repo and contribute as much as you can to spread your love towards Python :heart:
 
 # Python scripts:
 
