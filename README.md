@@ -91,7 +91,7 @@ Happy scripting!
 
 [**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
 
-    Given a math function, construct a graphic.
+    For given math function, constructs a graphic.
 
     Additional Requirements:
-    Only use the variable "x", use the python's operation rules
+    Use only the variable "x", use the python's operation rules
