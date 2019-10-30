@@ -49,3 +49,9 @@ Happy scripting!
 
 ###     Requirements :
     Python 3.5+
+
+### DateIterator
+    A simple script that prints out all the dates in a given year
+
+###     Requirements :
+    Python 3.5+
