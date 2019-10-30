@@ -49,3 +49,11 @@ Happy scripting!
 
 ###     Requirements :
     Python 3.5+
+
+### TorrentDownload
+
+    Program to download torrents.
+
+#### Requirements:
+
+    Python 3.5+, libtorrent, lxml
