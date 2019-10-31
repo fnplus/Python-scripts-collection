@@ -50,7 +50,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     A script that looks into all files under one or more directories and reports which are duplicates.  
    
-[**Image Scrapper**](https://github.com/fnplus/Python-scripts-collection/tree/master/Image%20Scrapper) :
+[**ImageScraper**](https://github.com/fnplus/Python-scripts-collection/tree/master/ImageScraper) :
 
     A program to pull all the images from the given URL. 
 
