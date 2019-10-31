@@ -120,3 +120,10 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 [**IntentionTextDiscover**](https://github.com/fnplus/Python-scripts-collection/tree/master/IntentionTextDiscover) :
 
     For given a text intention class based on bayes teorem.
+
+[**E-Certificate Writer**](https://github.com/fnplus/Python-scripts-collection/tree/master/E-Certificate-Writer) :
+
+    Useful for writing names of participants on E-Certificates using Python3. Returns the certificates in PDF format.
+
+    Additional Requitements:
+    img2pdf==0.3.3, numpy==1.17.2, pandas==0.25.1, Pillow==6.2.0, python-dateutil==2.8.0, pytz==2019.3, six==1.12.0
