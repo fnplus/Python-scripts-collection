@@ -23,7 +23,6 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     Additional Requirement :
     Sellenium, Chrome web browser
     
-
 [**AutoLinkedIn**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoLinkedIn)
 
     A program to automate the LinkedIn connection requests sending.
@@ -31,8 +30,6 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     Additional Requirement :
     Sellenium, Chrome web browser
  
-
-
 [**PDFDownloader**](https://github.com/fnplus/Python-scripts-collection/tree/master/PDFdownloader) :
 
     A program to download PDF files off the internet. 
@@ -66,16 +63,13 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     
     Additional Requirements : 
     Requests
-
-
+    
 [**AutoScreenshot**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoScreenshot) :
 
     Automatically take a screenshot of the desktop and email it to yourself every x seconds
 
     Additional Requirements : 
     pyautogui, smtplib, ssl, email, getpass
-
-
 
 [**FileLocator**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileLocator) :
 
@@ -89,6 +83,10 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     Seeking email that sent the most emails from email logs (text file)
 
+[**Renaming files of a folder**](https://github.com/fnplus/Python-scripts-collection/tree/master/Rename_files_of_a_folder) :
+
+    Python script to rename files especially images in this example in a folder
+
 [**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
 
     For given math function, constructs a graphic.
@@ -96,7 +94,6 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 [**Lorem Ipsum Generator**](https://github.com/fnplus/Python-scripts-collection/tree/master/Lorem%20Ipsum%20Generator) :
 
     Basically it generate new Lorem Ipsum text with paragraph wise that can be used as dummy text.
-
 
 [**ImageSizeConvertor**](https://github.com/fnplus/Python-scripts-collection/tree/master/ImageSizeConvertor) :
 
@@ -111,4 +108,4 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     A script to log in to Instagram and Like as many pictures as you want from the top photos of a particular hashtag. 
 
     Additional Requirements:
-    Instagram account(duh!), Sellenium 
+    Instagram account(duh!), Sellenium
