@@ -1,0 +1,7 @@
+1)Download python from the link : https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe
+
+2)Add python to the system path
+
+5)Make sure you have the latest Google Chrome browser installed.
+
+4)Run Install.bat
