@@ -137,4 +137,4 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     You can download YouTube videos with the URLs provided. 
 
     Additional Requitements:
-    `pytube`==`9.5.3`
+    pytube==9.5.3
