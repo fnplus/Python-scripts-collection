@@ -1,16 +1,18 @@
 from pytube import YouTube
 
-urls = ['https://www.youtube.com/watch?v=j440-D5JhjI']
+def dowload_youtube_videos(urls, output_path, num=1):
+    if isinstance(urls, list):
+        for index, url in enumerate(urls):
+            dowload_youtube_videos(url, output_path, num=index +1 )
+    else:
+        urls = urls.strip()
+        yt = YouTube(urls)
+        stream = yt.streams.first()
+        stream.download(output_path=output_path)
+        print(f"{num}: Downloaded file from {urls}")
 
-def dowload_videos(urls, output_path):
-	
-	num = 0s
+if __name__ == "__main__":
+    # https://www.youtube.com/watch?v=dQw4w9WgXcQ is the best one ;-)
+    user_input = input("Give us a youtube URL (separate multiple with a comma (`,`)): ")
 
-	for url in urls:
-	    yt = YouTube(url)
-	    stream = yt.streams.first()
-	    stream.download(output_path = output_path)
-	    print('{}: Downloaded file from url- {}'.format(num, url))
-	    num = num+1
-	    
-dowload_videos(url, output_path='E:/User/Music/queen/')
+    dowload_youtube_videos(str(user_input).split(","), output_path="./")
