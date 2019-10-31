@@ -25,7 +25,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 5 | [**FileMan**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileMan) | A simple Command line tool to manipulate files and directories and perform repetitive tasks like creating multiple directories fast and easy. | None |
 6 | [**WebWordCounter**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebWordCounter) | A simple script that counts how many times a word appears on a web page. | None |
 7 | [**FileDuplicateFinder**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileDuplicateFinder) | A script that looks into all files under one or more directories and reports which are duplicates. | None |
-8 | [**Image Scrapper**](https://github.com/fnplus/Python-scripts-collection/tree/master/Image%20Scrapper) | A program to pull all the images from the given URL. | None | 
+8 | [**ImageScraper**](https://github.com/fnplus/Python-scripts-collection/tree/master/ImageScraper) | A program to pull all the images from the given URL. | BeautifulSoup4 | 
 9 | [**DateIterator**](https://github.com/fnplus/Python-scripts-collection/tree/master/DateIterator) | A simple script that prints out all the dates in a given year.  | None |
 10 | [**WebsiteMonitor**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebsiteMonitor) | Monitor a website for a seach term. When it shows up, send yourself an e-mail. | Requests
 11 | [**RevereLookup**]() | Takes an input list of ip addresses and does a reverse lookup for dns information and org information and writes to a csv file. | None | 
