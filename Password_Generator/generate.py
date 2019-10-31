@@ -1,14 +1,20 @@
-import random
-import string
+from random import choice
+from string import printable
 
 
-def randompassword(number):
-	chars = random.sample(string.ascii_lowercase + string.digits, number)
-	passw = ''.join(map(str, chars))
-	return passw
+def random_password(length):
+    """
+    Provides a random password of the given length.
+
+    :param int length: The length of the password to generate.
+    """
+
+    return "".join([choice(printable) for x in range(int(length))])
 
 
-amount = int(input("How many passwords:\n"))
-number = int(input("Lenght of password?\n"))
-for i in range(amount):
-	print(f"   Password: {i} - {randompassword(number)} ")
+if __name__ == "__main__":
+    amount = int(input("How many passwords: "))
+    number = int(input("Length of password? "))
+
+    for i in range(1, amount + 1):
+        print(f"   Password: {i} - {repr(random_password(number))} ")
