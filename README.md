@@ -92,9 +92,11 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 [**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
 
     For given math function, constructs a graphic.
+    
+[**Lorem Ipsum Generator**](https://github.com/fnplus/Python-scripts-collection/tree/master/Lorem%20Ipsum%20Generator) :
 
-    Additional Requirements:
-    Use only the variable "x", use the python's operation rules
+    Basically it generate new Lorem Ipsum text with paragraph wise that can be used as dummy text.
+
 
 [**ImageSizeConvertor**](https://github.com/fnplus/Python-scripts-collection/tree/master/ImageSizeConvertor) :
 
