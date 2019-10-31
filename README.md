@@ -4,7 +4,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 ## How to contribute:
 
 1. Fork and clone this repo.
-2. Add any python script which should be able to solve a particular problem or to automate any monotonous task, in short the add the scripts that might be useful for others.
+2. Add any python script which should be able to solve a particular day-to-day task or to automate any monotonous task, in short the add the scripts that might be useful for others.
 3. Push your code to the master branch.
 4. Write a short description of your script and mention the dependencies in the README.md file.
 
@@ -92,8 +92,23 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 [**GraphicCalculator**](https://github.com/fnplus/Python-scripts-collection/tree/master/GraphicCalculator) :
 
     For given math function, constructs a graphic.
+    
 [**Lorem Ipsum Generator**](https://github.com/fnplus/Python-scripts-collection/tree/master/Lorem%20Ipsum%20Generator) :
 
     Basically it generate new Lorem Ipsum text with paragraph wise that can be used as dummy text.
 
 
+[**ImageSizeConvertor**](https://github.com/fnplus/Python-scripts-collection/tree/master/ImageSizeConvertor) :
+
+    A python script to change the image size of one or any number of images in a directory in which the script is placed to 
+    a user defined size using image processing by openCV.
+
+    Additional Requirements:
+    Python 3.5+,OpenCV2
+
+[**Instagram Liker**](https://github.com/fnplus/Python-scripts-collection/tree/master/InstagramLiker) :
+
+    A script to log in to Instagram and Like as many pictures as you want from the top photos of a particular hashtag. 
+
+    Additional Requirements:
+    Instagram account(duh!), Sellenium 
