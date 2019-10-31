@@ -38,16 +38,13 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     A simple Command line tool to manipulate files and directories and perform repetitive tasks like creating multiple directories fast and easy
 
-
 [**WebWordCounter**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebWordCounter) :
 
     A simple script that counts how many times a word appears on a web page.
-
-   
+ 
 [**FileDuplicateFinder**](https://github.com/fnplus/Python-scripts-collection/tree/master/FileDuplicateFinder) :
 
-    A script that looks into all files under one or more directories and reports which are duplicates. 
-    
+    A script that looks into all files under one or more directories and reports which are duplicates.  
    
 [**Image Scrapper**](https://github.com/fnplus/Python-scripts-collection/tree/master/Image%20Scrapper) :
 
@@ -58,11 +55,15 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     A simple script that prints out all the dates in a given year 
    
 [**WebsiteMonitor**](https://github.com/fnplus/Python-scripts-collection/tree/master/WebsiteMonitor) :
-
+    
     Monitor a website for a seach term. When it shows up, send yourself an e-mail. 
     
     Additional Requirements : 
     Requests
+
+[**RevereLookup**]() :
+
+    Takes an input list of ip addresses and does a reverse lookup for dns information and org information and writes to a csv file.
     
 [**AutoScreenshot**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoScreenshot) :
 
@@ -108,16 +109,14 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     A script to log in to Instagram and Like as many pictures as you want from the top photos of a particular hashtag. 
 
     Additional Requirements:
-    Use only the variable "x", use the python's operation rules
-
-[**IntentionTextDiscover**](https://github.com/fnplus/Python-scripts-collection/tree/master/IntentionTextDiscover) :
-
-    For given a text intention class based on bayes teorem.
-
-    Additional Requirements:
+    - Use only the variable "x", use the python's operation rules
     - A text collection array for trainning 
     - Install this packeges:
         nltk ( A Python Natural Language Toolkit)
         pandas
         sklearn
     - Instagram account(duh!), Sellenium
+
+[**IntentionTextDiscover**](https://github.com/fnplus/Python-scripts-collection/tree/master/IntentionTextDiscover) :
+
+    For given a text intention class based on bayes teorem.
