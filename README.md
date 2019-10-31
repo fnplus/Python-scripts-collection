@@ -12,7 +12,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
 # Python scripts:
 
-##    Requirements :
+## Requirements:
 
     Python 3.5+
 
@@ -108,4 +108,16 @@ This is a collection of short Python scripts to solve and automate tasks and sim
     A script to log in to Instagram and Like as many pictures as you want from the top photos of a particular hashtag. 
 
     Additional Requirements:
-    Instagram account(duh!), Sellenium
+    Use only the variable "x", use the python's operation rules
+
+[**IntentionTextDiscover**](https://github.com/fnplus/Python-scripts-collection/tree/master/IntentionTextDiscover) :
+
+    For given a text intention class based on bayes teorem.
+
+    Additional Requirements:
+    - A text collection array for trainning 
+    - Install this packeges:
+        nltk ( A Python Natural Language Toolkit)
+        pandas
+        sklearn
+    - Instagram account(duh!), Sellenium
