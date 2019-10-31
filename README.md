@@ -16,6 +16,15 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     Python 3.5+
 
+[**GeneratePassword**](https://github.com/fnplus/Python-scripts-collection/tree/master/Password_Generator)
+
+    A program to generate random passwords
+    
+    Requirement :
+    - Random
+    - String
+
+
 [**AutoWhatsapp**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoWhatsapp)
 
     A program to spam messages to a whatsapp contact any number of times
