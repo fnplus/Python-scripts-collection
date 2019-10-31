@@ -20,11 +20,6 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     A program to generate random passwords
     
-    Requirement :
-    - Random
-    - String
-
-
 [**AutoWhatsapp**](https://github.com/fnplus/Python-scripts-collection/tree/master/AutoWhatsapp)
 
     A program to spam messages to a whatsapp contact any number of times
@@ -93,7 +88,7 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 
     Seeking email that sent the most emails from email logs (text file)
 
-[**Renaming files of a folder**] :
+[**Renaming files of a folder**](https://github.com/fnplus/Python-scripts-collection/tree/master/Rename_files_of_a_folder) :
 
     Python script to rename files especially images in this example in a folder
 
