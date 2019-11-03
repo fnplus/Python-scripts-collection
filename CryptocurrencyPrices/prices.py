@@ -1,6 +1,5 @@
 import re
 import requests
-import textwrap
 import time
 
 from bs4 import BeautifulSoup as bs
