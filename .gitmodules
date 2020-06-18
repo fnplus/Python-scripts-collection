@@ -1,0 +1,3 @@
+[submodule "CoV-Updates-Emailer/CoVup"]
+	path = CoV-Updates-Emailer/CoVup
+	url = https://github.com/evi1haxor/CoVup.git
