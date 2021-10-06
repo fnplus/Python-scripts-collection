@@ -2,6 +2,10 @@
 
 A simple Tkinter app that uses the Twilio api internally to send messages
 
+# Dependencies
+twilio 7.0.0 
+PyPi (here)[https://pypi.org/project/twilio/]
+
 # Setup
 
 Open up your terminal and paste the following - 
