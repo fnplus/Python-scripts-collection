@@ -52,3 +52,4 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 31 | [**Folder-Automater**](https://github.com/decipher07/Useful-Python-scripts-collection/blob/master/Folder-Automater/automateall.py) | A Python script which compiles all the different formats of files present in the respective folder to a new folder containing only the Specified files . | None | 
 32 | [**JSON-YAML**](https://github.com/decipher07/Useful-Python-scripts-collection/blob/master/JSON-YAML) | A Python script which converts JSON To YAML and Vice-Versa | JSON, YAML | 
 33 | [**CSV_to_JSON**](https://github.com/TechBoyy6/Python-scripts-collection/tree/master/CSV_to_JSON) | A script that converts the csv file into json file. | None |
+34 | [**SMS-SENDER**](https://github.com/CopyrightC/Python-scripts-collection/blob/master/SMS_SENDER/main.py) | A python script that uses Tkinter and Twilio to send SMS. | twilio|
