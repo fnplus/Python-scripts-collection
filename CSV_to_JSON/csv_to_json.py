@@ -1,29 +1,20 @@
 import csv
 import json
 
-file_name = input("Provide the CSV filename without extension>> ")
+file_name = input("Provide the CSV filename : ")
+if not file_name.strip().endswith(".csv"):
+    file_name += ".csv"
 
-with open(file_name + '.csv') as f:
+with open(file_name) as f:
+    reader = csv.reader(f, delimiter=",")
 
-    reader = csv.reader(f, delimiter=',')
-
-    titles = []
-    temp_data = {}
-
-    for heading in reader:
-        titles = heading
-        break
-
-    i = 1
+    titles = next(reader)
+    temp_data = []
     
     for row in reader:
-        current_row = "row{}".format(i)
-        temp_data['{}'.format(current_row)] = {}
-        for col in range(len(titles)):
-            temp_data[current_row][titles[col]] = row[col]
-        i += 1
+        temp_data.append({col: val for col, val in zip(titles, row)})
 
-with open(file_name + '.json', 'w') as f_j:
+with open(file_name.strip()[:-4] + ".json", "w") as f_j:
     json.dump(temp_data, f_j, indent=4)
 
 print("File converted successfully :)\n")
