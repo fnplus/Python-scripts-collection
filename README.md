@@ -55,4 +55,5 @@ This is a collection of short Python scripts to solve and automate tasks and sim
 35 | [**SMS-SENDER**](https://github.com/CopyrightC/Python-scripts-collection/blob/master/SMS_SENDER/main.py) | A python script that uses Tkinter and Twilio to send SMS. | twilio|
 36 | [**Password Validator**](https://github.com/Mannuel25/Python-scripts-collection/tree/master/Password%20Validator) | A script validates passwords to match specific rules. A valid password is one that conforms to some specific rules. | None |
 37 | [**RSA Communication**](https://github.com/fnplus/Python-scripts-collection/tree/master/RSA_Communication) | Independent Python script that allows RSA communication. | None |
+38 | [**AutoTelegram**](https://github.com/farkon00/Python-scripts-collection/tree/master/AutoTelegram) | A program to spam messages to a Telegram user any number of times | telethon |
 
