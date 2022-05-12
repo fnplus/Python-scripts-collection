@@ -6,14 +6,14 @@ Make sure you have python 3 or higher, that's it.
 
 ## Files
 before<br/>
-![before](https://github.com/TechBoyy6/Python-scripts-collection/blob/master/CSV_to_JSON/img/before.jpg)<br/>
+![before](https://github.com/fnplus/Python-scripts-collection/blob/master/CSV_to_JSON/img/before.jpg?raw=true)<br/>
 
 ## CLI interface
-![image](https://github.com/TechBoyy6/Python-scripts-collection/blob/master/CSV_to_JSON/img/CLI.jpg)
+![image](https://github.com/fnplus/Python-scripts-collection/blob/master/CSV_to_JSON/img/CLI.jpg?raw=true)
 
 ## Files
 After<br/>
-![after](https://github.com/TechBoyy6/Python-scripts-collection/blob/master/CSV_to_JSON/img/after.jpg)
+![after](https://github.com/fnplus/Python-scripts-collection/blob/master/CSV_to_JSON/img/after.jpg?raw=true)
 
 ## Contact
 <a href="https://twitter.com/MoiZ__2001?s=08">

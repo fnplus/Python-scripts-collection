@@ -1,5 +1,7 @@
 import socket    
-hostname = socket.gethostname()    
-IPAddr = socket.gethostbyname(hostname)    
-print("Your Computer Name is:" + hostname)    
-print("\nYour Computer IP Address is:" + IPAddr)
+
+HostName = socket.gethostname()    
+IPAddr = socket.gethostbyname(HostName)   
+
+print(f"Your Computer Name is: {HostName}\n")    
+print(f"Your Computer IP Address is: {IPAddr}")
